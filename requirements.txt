@@ -1,0 +1,9 @@
+#安装pytest框架
+pytest
+#生成简易报告
+pytest-html
+#多线程
+pytest-xdist
+
+pytest
+
